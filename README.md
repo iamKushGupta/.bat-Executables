@@ -9,3 +9,5 @@ To check whether some file works or not, its better to run it in a SandBox.
         - Else you may download an Open-Source Sandbox, named SandBoxie. 
 
 Cheers 🥂!
+
+***I bear no responsibility for any mishap that happens, I have already given the required WARNINGS ⚠ !!! ***
